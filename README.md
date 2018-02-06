@@ -6,5 +6,8 @@
 
 ### Installation
 
-        $ pip install -r requirements
+        $ pip install -r requirements.txt
 
+    - If error happens with installing InstaLooter:
+
+        $ pip install --user instaLooter
